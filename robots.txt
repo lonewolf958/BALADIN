@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /config/
+Disallow: /includes/
+Disallow: /pages/
+
+# Replace with your final domain if different (see README "Launch checklist").
+Sitemap: https://www.baladinzanzibar.com/sitemap.xml
